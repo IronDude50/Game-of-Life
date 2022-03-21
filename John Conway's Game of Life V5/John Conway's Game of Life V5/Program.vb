@@ -1,8 +1,6 @@
 ' John Conway's Game of Life
 ' Version 5.3
-' By Dhruv Menon
-' Bacchus Marsh Grammar
-' Completed on 15th Dec 2021
+' Last updated on 15th Dec 2021
 
 Imports System
 
