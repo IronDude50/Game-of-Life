@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "John Conway's Game of Life V5/1.0.0": {
+        "runtime": {
+          "John Conway's Game of Life V5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "John Conway's Game of Life V5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
